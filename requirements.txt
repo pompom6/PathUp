@@ -1,0 +1,8 @@
+torch==2.0+cu121
+torchvision==0.10.0+cu121
+scikit-image
+tqdm
+wandb
+matplotlib
+opencv-python
+diffuser
